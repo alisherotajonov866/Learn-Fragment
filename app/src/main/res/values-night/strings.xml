@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="close_fragment">Close Fragment</string>
+    <string name="open">Open</string>
+</resources>
